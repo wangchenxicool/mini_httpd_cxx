@@ -1,0 +1,34 @@
+<HTML>
+    <HEAD>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <!-- <TITLE>上传数据文件</TITLE> -->
+        <TITLE>upload file</TITLE>
+        <META HTTP-EQUIV="CONTENT-TYPE" CONTENT="TEXT/HTML;CHARSER=UTF-8">
+        <link rel="stylesheet" type="text/css" href="css/main.css">
+<script type="text/javascript">
+    function upload_file(){
+            if( document.getElementById('FILE1').value == '' ){
+                <!-- alert("请选择文件！"); -->
+                alert("please select file..");
+                return false;
+            }
+            
+            document.getElementById('uploadInfo').innerHTML = '' ;
+            <!-- document.getElementById('uploadInfo').innerHTML = '<img src="images/wait.gif"><br>数据上传中，请稍候……' ; -->
+            document.getElementById('uploadInfo').innerHTML = '<img src="images/wait.gif"><br>upload.. please wait..' ;
+            document.getElementById('form1').submit();
+    }
+</script>        
+    </HEAD>
+
+    <BODY BGCOLOR="#FFFFFF">
+        <FORM METHOD="POST" id="form1" name="form1" ENCTYPE="multipart/form-data" ACTION="cgi-bin/upload">
+            <!-- 选择文件：<INPUT TYPE="FILE" NAME="FILE1" id="FILE1" class="btn"><INPUT TYPE="button" onclick="upload_file()" VALUE="上传" class="btn"><br> -->
+            select file:<INPUT TYPE="FILE" NAME="FILE1" id="FILE1" class="btn"><INPUT TYPE="button" onclick="upload_file()" VALUE="upload" class="btn"><br>
+            <center>
+                <div id="uploadInfo"></div>
+            </center>
+        </FORM>
+    </BODY>
+
+</HTML>

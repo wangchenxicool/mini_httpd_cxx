@@ -1,0 +1,121 @@
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$Log File Created On: <Thu Dec 21 13:31:01 2017>
+$Software: <httpd>
+$Editor: <wangchenxi>
+$Version: <web_for_xuhui_8.0.0>
+
+[Thu Dec 21 13:31:01 2017][config.cpp:136][load][-2]: get_local_mac failed!
+[Thu Dec 21 13:31:01 2017][main.cpp:665][main][-2]: read ini file failed!
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$Log File Created On: <Thu Dec 21 13:31:20 2017>
+$Software: <httpd>
+$Editor: <wangchenxi>
+$Version: <web_for_xuhui_8.0.0>
+
+[Thu Dec 21 13:31:20 2017][config.cpp:136][load][-2]: get_local_mac failed!
+[Thu Dec 21 13:31:20 2017][main.cpp:665][main][-2]: read ini file failed!
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$Log File Created On: <Thu Dec 21 13:32:28 2017>
+$Software: <httpd>
+$Editor: <wangchenxi>
+$Version: <web_for_xuhui_8.0.0>
+
+[Thu Dec 21 13:32:28 2017][config.cpp:136][load][-2]: get_local_mac failed!
+[Thu Dec 21 13:32:28 2017][main.cpp:665][main][-2]: read ini file failed!
+[Thu Dec 21 13:32:28 2017][main.cpp:97][create_dirs_files][0]: '/home/pjt/BangBang/web_for_xuhui/mini_httpd_cxx/cgi-bin' not existing, make it!
+[Thu Dec 21 13:32:28 2017][main.cpp:100][create_dirs_files][0]: make '/home/pjt/BangBang/web_for_xuhui/mini_httpd_cxx/cgi-bin' successfully!
+[Thu Dec 21 13:32:28 2017][main.cpp:136][create_dirs_files][0]: create_fils_dirs end!
+[Thu Dec 21 13:32:28 2017][main.cpp:478][work_loop][0]: work_loop()
+[Thu Dec 21 13:32:28 2017][main.cpp:471][work_init][0]: work_init..
+[Thu Dec 21 13:32:28 2017][main.cpp:504][work_loop][0]: work_init sucess!
+[Thu Dec 21 13:32:28 2017][main.cpp:512][work_loop][0]: work_loop()
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$Log File Created On: <Thu Dec 21 13:32:42 2017>
+$Software: <httpd>
+$Editor: <wangchenxi>
+$Version: <web_for_xuhui_8.0.0>
+
+[Thu Dec 21 13:32:42 2017][config.cpp:136][load][-2]: get_local_mac failed!
+[Thu Dec 21 13:32:42 2017][main.cpp:665][main][-2]: read ini file failed!
+[Thu Dec 21 13:32:42 2017][main.cpp:136][create_dirs_files][0]: create_fils_dirs end!
+[Thu Dec 21 13:32:42 2017][main.cpp:478][work_loop][0]: work_loop()
+[Thu Dec 21 13:32:42 2017][main.cpp:471][work_init][0]: work_init..
+[Thu Dec 21 13:32:42 2017][main.cpp:504][work_loop][0]: work_init sucess!
+[Thu Dec 21 13:32:42 2017][main.cpp:512][work_loop][0]: work_loop()
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$Log File Created On: <Thu Dec 21 13:33:14 2017>
+$Software: <httpd>
+$Editor: <wangchenxi>
+$Version: <web_for_xuhui_8.0.0>
+
+[Thu Dec 21 13:33:14 2017][config.cpp:136][load][-2]: get_local_mac failed!
+[Thu Dec 21 13:33:14 2017][main.cpp:665][main][-2]: read ini file failed!
+[Thu Dec 21 13:33:14 2017][main.cpp:136][create_dirs_files][0]: create_fils_dirs end!
+[Thu Dec 21 13:33:14 2017][main.cpp:478][work_loop][0]: work_loop()
+[Thu Dec 21 13:33:14 2017][main.cpp:471][work_init][0]: work_init..
+[Thu Dec 21 13:33:14 2017][main.cpp:504][work_loop][0]: work_init sucess!
+[Thu Dec 21 13:33:14 2017][main.cpp:512][work_loop][0]: work_loop()
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$Log File Created On: <Thu Dec 21 13:33:37 2017>
+$Software: <httpd>
+$Editor: <wangchenxi>
+$Version: <web_for_xuhui_8.0.0>
+
+[Thu Dec 21 13:33:37 2017][config.cpp:136][load][-2]: get_local_mac failed!
+[Thu Dec 21 13:33:37 2017][main.cpp:665][main][-2]: read ini file failed!
+[Thu Dec 21 13:33:37 2017][main.cpp:136][create_dirs_files][0]: create_fils_dirs end!
+[Thu Dec 21 13:33:37 2017][main.cpp:478][work_loop][0]: work_loop()
+[Thu Dec 21 13:33:37 2017][main.cpp:471][work_init][0]: work_init..
+[Thu Dec 21 13:33:37 2017][main.cpp:504][work_loop][0]: work_init sucess!
+[Thu Dec 21 13:33:37 2017][main.cpp:512][work_loop][0]: work_loop()
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$Log File Created On: <Thu Dec 21 13:34:30 2017>
+$Software: <httpd>
+$Editor: <wangchenxi>
+$Version: <web_for_xuhui_8.0.0>
+
+[Thu Dec 21 13:34:30 2017][config.cpp:136][load][-2]: get_local_mac failed!
+[Thu Dec 21 13:34:30 2017][main.cpp:665][main][-2]: read ini file failed!
+[Thu Dec 21 13:34:30 2017][main.cpp:136][create_dirs_files][0]: create_fils_dirs end!
+[Thu Dec 21 13:34:30 2017][main.cpp:478][work_loop][0]: work_loop()
+[Thu Dec 21 13:34:30 2017][main.cpp:471][work_init][0]: work_init..
+[Thu Dec 21 13:34:30 2017][main.cpp:504][work_loop][0]: work_init sucess!
+[Thu Dec 21 13:34:30 2017][main.cpp:512][work_loop][0]: work_loop()
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$Log File Created On: <Thu Dec 21 13:35:58 2017>
+$Software: <httpd>
+$Editor: <wangchenxi>
+$Version: <web_for_xuhui_8.0.0>
+
+[Thu Dec 21 13:35:58 2017][config.cpp:136][load][-2]: get_local_mac failed!
+[Thu Dec 21 13:35:58 2017][main.cpp:665][main][-2]: read ini file failed!
+[Thu Dec 21 13:35:58 2017][main.cpp:136][create_dirs_files][0]: create_fils_dirs end!
+[Thu Dec 21 13:35:58 2017][main.cpp:478][work_loop][0]: work_loop()
+[Thu Dec 21 13:35:58 2017][main.cpp:471][work_init][0]: work_init..
+[Thu Dec 21 13:35:58 2017][main.cpp:504][work_loop][0]: work_init sucess!
+[Thu Dec 21 13:35:58 2017][main.cpp:512][work_loop][0]: work_loop()
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$Log File Created On: <Thu Dec 21 13:36:21 2017>
+$Software: <httpd>
+$Editor: <wangchenxi>
+$Version: <web_for_xuhui_8.0.0>
+
+[Thu Dec 21 13:36:21 2017][config.cpp:136][load][-2]: get_local_mac failed!
+[Thu Dec 21 13:36:21 2017][main.cpp:665][main][-2]: read ini file failed!
+[Thu Dec 21 13:36:21 2017][main.cpp:136][create_dirs_files][0]: create_fils_dirs end!
+[Thu Dec 21 13:36:21 2017][main.cpp:478][work_loop][0]: work_loop()
+[Thu Dec 21 13:36:21 2017][main.cpp:471][work_init][0]: work_init..
+[Thu Dec 21 13:36:21 2017][main.cpp:504][work_loop][0]: work_init sucess!
+[Thu Dec 21 13:36:21 2017][main.cpp:512][work_loop][0]: work_loop()
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$Log File Created On: <Thu Dec 21 13:38:30 2017>
+$Software: <httpd>
+$Editor: <wangchenxi>
+$Version: <web_for_xuhui_8.0.0>
+
+[Thu Dec 21 13:38:30 2017][config.cpp:136][load][-2]: get_local_mac failed!
+[Thu Dec 21 13:38:30 2017][main.cpp:669][main][-2]: read ini file failed!
+[Thu Dec 21 13:38:30 2017][main.cpp:136][create_dirs_files][0]: create_fils_dirs end!
+[Thu Dec 21 13:38:30 2017][main.cpp:478][work_loop][0]: work_loop()
+[Thu Dec 21 13:38:30 2017][main.cpp:471][work_init][0]: work_init..
+[Thu Dec 21 13:38:30 2017][main.cpp:504][work_loop][0]: work_init sucess!

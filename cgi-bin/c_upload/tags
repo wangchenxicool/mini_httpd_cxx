@@ -1,0 +1,46 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ANDROID	my_popen.cpp	3;"	d	file:
+CFLAG	Makefile	/^CFLAG = -static$/;"	m
+CROSS	Makefile	/^CROSS=arm-linux-$/;"	m
+DEAL_BUF_LEN	main.c	15;"	d	file:
+FILE_NAME_LEN	main.c	17;"	d	file:
+FILE_SAVE_DIR	main.c	20;"	d	file:
+INSTALL	Makefile	/^INSTALL=install -o $(USER) -g $(USER)$/;"	m
+LIBS	Makefile	/^LIBS:=-lpthread$/;"	m
+OPEN_MAX_GUESS	my_popen.cpp	10;"	d	file:
+OTHERSLIBPWD	Makefile	/^OTHERSLIBPWD=\/home\/usrc$/;"	m
+SHELL	my_popen.cpp	6;"	d	file:
+SHELL	my_popen.cpp	8;"	d	file:
+SIGN_CODE_LEN	main.c	16;"	d	file:
+SRC	Makefile	/^SRC:=$(shell ls *.c)$/;"	m
+STATE_CHECK_END	main.c	/^    STATE_CHECK_END,$/;"	e	enum:__anon1	file:
+STATE_END	main.c	/^    STATE_END$/;"	e	enum:__anon1	file:
+STATE_GET_FILE_CONTENT	main.c	/^    STATE_GET_FILE_CONTENT,$/;"	e	enum:__anon1	file:
+STATE_GET_FILE_NAME	main.c	/^    STATE_GET_FILE_NAME,$/;"	e	enum:__anon1	file:
+STATE_GET_FILE_START	main.c	/^    STATE_GET_FILE_START,$/;"	e	enum:__anon1	file:
+STATE_GET_SIGN_CODE	main.c	/^    STATE_GET_SIGN_CODE,$/;"	e	enum:__anon1	file:
+STATE_START	main.c	/^    STATE_START,$/;"	e	enum:__anon1	file:
+ShowErrorInfo	main.c	/^static void ShowErrorInfo (char * error) {$/;"	f	file:	signature:(char * error)
+ShowInfo	main.c	/^static void ShowInfo (char * error) {$/;"	f	file:	signature:(char * error)
+TARGET	Makefile	/^TARGET:=upload$/;"	m
+_MY_POPEN_H	my_popen.h	2;"	d
+childpid	my_popen.cpp	/^static pid_t	*childpid = NULL;$/;"	v	file:
+execute	my_popen.h	/^int execute (const char *cmd_line, int quiet);$/;"	p	signature:(const char *cmd_line, int quiet)
+main	main.c	/^int main (void) $/;"	f	signature:(void)
+maxfd	my_popen.cpp	/^static int		maxfd;	\/* from our open_max(), {Prog openmax} *\/$/;"	v	file:
+my_pclose	my_popen.cpp	/^int my_pclose (FILE *fp) {$/;"	f	signature:(FILE *fp)
+my_pclose	my_popen.h	/^int my_pclose (FILE *fp);$/;"	p	signature:(FILE *fp)
+my_popen	my_popen.cpp	/^FILE * my_popen (const char *cmdstring, const char *type) {$/;"	f	signature:(const char *cmdstring, const char *type)
+my_popen	my_popen.h	/^FILE *my_popen (const char *cmdstring, const char *type);$/;"	p	signature:(const char *cmdstring, const char *type)
+my_system	my_popen.cpp	/^int my_system (const char * cmd) {$/;"	f	signature:(const char * cmd)
+my_system	my_popen.h	/^int my_system (const char * cmd);$/;"	p	signature:(const char * cmd)
+open_max	my_popen.cpp	/^static int open_max (void) {$/;"	f	file:	signature:(void)
+openmax	my_popen.cpp	/^static int openmax = 0;$/;"	v	file:
+openmax	my_popen.cpp	/^static int openmax = OPEN_MAX;$/;"	v	file:
+safe_fork	my_popen.cpp	/^static pid_t safe_fork (void) {$/;"	f	file:	signature:(void)
+upload_file	upload.html	/^    function upload_file(){$/;"	f
